@@ -7,15 +7,15 @@
     </listeners>
     <test name="Tests">
         <classes>
-            <class name="SeleniumProject.Activity1" />
-            <class name="SeleniumProject.Activity2"/>
-             <class name="SeleniumProject.Activity3"/>
-            <class name="SeleniumProject.Activity4"/>
-            <class name="SeleniumProject.Activity5"/>
-            <class name="SeleniumProject.Activity6"/>
-            <class name="SeleniumProject.Activity7"/>
-            <class name="SeleniumProject.Activity8"/>
-            <class name="SeleniumProject.Activity9"/>
+            <class name="SDET.Activity1" />
+            <class name="SDET.Activity2"/>
+             <class name="SDET.Activity3"/>
+            <class name="SDET.Activity4"/>
+            <class name="SDET.Activity5"/>
+            <class name="SDET.Activity6"/>
+            <class name="SDET.Activity7"/>
+            <class name="SDET.Activity8"/>
+            <class name="SDET.Activity9"/>
         </classes>
     </test>
 </suite>
